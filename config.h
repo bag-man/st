@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char font[] = "AnonymousProMinus:size=9:antialias=true:autohint=true";
+static char font[] = "AnonymousProMinus:size=11:antialias=true:autohint=true";
 static int borderpx = 1;
 
 /*
